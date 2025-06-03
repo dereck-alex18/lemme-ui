@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Lemme - Plataforma de Personalização de Sites Escolares
 
-## Getting Started
+Este repositório contém o MVP de uma plataforma que permite às escolas personalizar seus próprios sites com identidade visual única, sem necessidade de conhecimento técnico. A solução foi construída com Next.js e permite customização de cores, fontes, imagens e seções modulares.
 
-First, run the development server:
+## 🧩 Funcionalidades do MVP
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Personalização completa de layout (cores, fontes, imagens, seções).
+- Salvamento e reutilização de templates.
+- Interface amigável e acessível para escolas sem equipe técnica.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Tecnologias Utilizadas
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- [Next.js](https://nextjs.org/)
+- React
+- JavaScript
+- HTML/CSS
+- Node.js (via NPM)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Pré-requisitos
 
-## Learn More
+Antes de começar, você precisará ter instalado na sua máquina:
 
-To learn more about Next.js, take a look at the following resources:
+- [Node.js](https://nodejs.org/) (versão 16 ou superior recomendada)
+- [NPM](https://www.npmjs.com/) (gerenciador de pacotes do Node)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🧪 Passo a Passo para Execução do MVP
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. **Clone o repositório**
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```bash
+   git clone https://github.com/dereck-alex18/lemme-ui.git
+2. **Acesse a pasta do projeto**
+    ```bash
+    cd lemme-ui
+3. **Instale as Dependências NPM**
+    ```bash
+   npm install
+4. **Execute a aplicação** 
+    ```bash
+   npm run dev
