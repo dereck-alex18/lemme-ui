@@ -1,6 +1,6 @@
 # Lemme - Plataforma de Personalização de Sites Escolares
 
-Este repositório contém o MVP de uma plataforma que permite às escolas personalizar seus próprios sites com identidade visual única, sem necessidade de conhecimento técnico. A solução foi construída com Next.js e permite customização de cores, fontes, imagens e seções modulares.
+Este repositório contém o MVP de uma plataforma que permite às escolas personalizar seus próprios sites com identidade visual única, sem necessidade de conhecimento técnico. A solução foi construída com Next.js e permite customização de cores, fontes, imagens e seções modulares..
 
 # Link da aplicação web
 [Lemme](https://lemme-cicclo.vercel.app)
